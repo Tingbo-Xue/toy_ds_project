@@ -6,3 +6,4 @@ This file was edited
 
 Rocket dock
 Edit delayed
+TO create a pat you go to settings > developer settings > personal access token
